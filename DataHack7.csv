@@ -1,0 +1,32 @@
+﻿Milestone/Phase,Milestone Type,PHASE,Resources,Progress (%),,Duration,Baseline Start Date,Baseline End Date,Current Forecast Start Date,Current Forecast End Date,Actual Start Date,Actual End Date,Last Week,,,Trend,This Week,,,Running Total Time PM,Running Total Time BC,Running Total Time DATA,Running Total Time DI,Running Total Time CONFIG
+Phase,,Discovery,"PM, BC",80,80,11,25/08/2020,05/09/2020,01/09/2020,11/08/2020,02/09/2020,30/08/2020,Green,Green,,0,Green,Green,,#REF!,#REF!,#REF!,#REF!,#REF!
+Discovery,,Project Plan,PM,80,80,,,,01/09/2020,09/09/2020,,,Green,Green,3,-3,Green,Green,,,,,,
+Discovery,,External Kick off meeting,PM,100,100,,,,02/09/2020,02/09/2020,,,Green,Green,3,-3,Complete,Complete,,,,,,
+Discovery,,Internal update to wider teams,PM,90,90,,,,02/09/2020,16/03/2020,,,Green,Green,3,-3,Green,Green,,,,,,
+Discovery,Sign-off,PID sign off,PM,100,100,,,,11/08/2020,11/08/2020,,,Green,Green,3,-3,Complete,Complete,,,,,,
+Phase,,Initiation,PM,Progress (%),,31,05/08/2020,05/09/2020,11/08/2020,09/09/2020,13/08/2020,10/09/2020,Green,Green,,0,Green,Green,,#REF!,#REF!,#REF!,#REF!,#REF!
+Initiation,,Project Plan,PM,80,80,,,,01/09/2020,09/09/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Initiation,,External Kick off meeting,PM,100,100,,,,02/09/2020,02/09/2020,,,Green,Green,3,1,Complete,Complete,4,,,,,
+Initiation,,Internal update to wider teams,PM,90,90,,,,02/09/2020,02/09/2020,,,Red,Red,1,0,Red,Red,1,,,,,
+Initiation,,Internal update to wider teams,PM,91,91,,,,02/09/2020,02/09/2020,,,Green,Green,3,-3,Amber,Amber,,,,,,
+Initiation,Sign-off,PID sign off,PM,100,100,,,,11/08/2020,11/08/2020,,,Green,Green,3,1,Complete,Complete,4,,,,,
+Phase,,Solution Delivery,"PM, BC, CONFIG, PURCHASE, COMMS, OR, CLIENT, ",Progress (%),,56,25/08/2020,20/10/2020,01/09/2020,28/10/2020,01/09/2020,28/10/2020,Green,Green,,0,Green,Green,,#REF!,#REF!,#REF!,#REF!,#REF!
+Solution Delivery,,Analysis,BC,75,75,,,,01/09/2020,11/09/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Solution Delivery,,Config Spreadsheet,BC,0,0,,,,14/09/2020,18/09/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Solution Delivery,,Equateplus Configuration UAT,Conf team,0,0,,,,21/09/2020,24/09/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Solution Delivery,,Freeshare EQ award set ups UAT,Purchase team,0,0,,,,25/09/2020,28/09/2020,,,Green,Green,3,-3,Green,Green,,,,,,
+Solution Delivery,,Communications,Comms,0,0,,,,26/09/2020,29/09/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Solution Delivery,,EquatePlus Testing,Ops readiness,0,0,,,,27/09/2020,30/09/2020,,,Green,Green,3,-3,Green,Green,,,,,,
+Solution Delivery,,EquatePlus Testing,Client,0,0,,,,28/09/2020,01/10/2020,,,Green,Green,3,-3,Green,Green,,,,,,
+Solution Delivery,Live,Equateplus Configuration Production,Conf team,0,0,,,,21/10/2020,23/10/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Solution Delivery,,Freeshare EQ award set ups Production,Purchase team,0,0,,,,26/10/2020,27/10/2020,,,Green,Green,3,-3,Green,Green,,,,,,
+Solution Delivery,,BAU Handover,Ops readiness / PM,0,0,,,,28/10/2020,28/10/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Phase,,Deploy,PURCHASE,Progress (%),,5,25/10/2020,30/10/2020,02/11/2020,22/11/2020,02/11/2020,22/11/2020,Green,Green,,0,Green,Green,,#REF!,#REF!,#REF!,#REF!,#REF!
+Deploy,,Enrolment window opens,Purchase team,0,0,,,,02/11/2020,02/11/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Deploy,,Enrolment window closes,Purchase team,0,0,,,,19/11/2020,19/11/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Deploy,,Agree final award numbers,Purchase team,0,0,,,,20/11/2020,20/11/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Deploy,,Purchase,Purchase team,0,0,,,,21/11/2020,21/11/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Deploy,,Shares Delivered and build award,Purchase team,0,0,,,,22/11/2020,22/11/2020,,,Green,Green,3,0,Green,Green,3,,,,,
+Phase,,Close,PM,Progress (%),,14,30/10/2020,13/11/2020,20/11/2020,04/12/2020,20/11/2020,04/12/2020,Green,Green,,0,Green,Green,,#REF!,#REF!,#REF!,#REF!,#REF!
+Close,,Project Review,OM,0,0,,,,,,,,Green,Green,3,0,Green,Green,3,,,,,
+Close,,Project Closed,PM,0,0,,,,,,,,Green,Green,3,0,Green,Green,3,,,,,
